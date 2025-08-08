@@ -1,0 +1,18 @@
+
+title: Your 401(k) Crystal Ball — Live EO Impact Game
+rounds:
+  - id: adoption
+    question: "If the EO is implemented, what % of 401(k) plans will add at least one of the new asset types within 2 years?"
+    options: ["<5%", "5–20%", "20–50%", ">50%"]
+  - id: beneficiary
+    question: "Who benefits most if plans add PE/RE/Crypto exposure?"
+    options: ["High earners", "Mass middle", "Near retirees", "No one / negligible"]
+  - id: risk
+    question: "Which asset type worries you most in a retirement plan context?"
+    options: ["Private equity", "Real estate", "Cryptocurrency", "All equally", "None"]
+  - id: longterm
+    question: "In 10 years, this change will be seen as…"
+    options: ["Positive innovation", "Neutral", "Major mistake"]
+  - id: hurdles
+    question: "Biggest implementation hurdle for plan sponsors?"
+    options: ["Fiduciary risk", "Fees", "Liquidity/valuation", "Participant comms", "Recordkeeping ops"]
